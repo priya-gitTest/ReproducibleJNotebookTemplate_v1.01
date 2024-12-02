@@ -8,15 +8,17 @@ Code Space
    
     ./my_env/bin/activate
    
-4. pip install numpy pandas matplotlib ipykernel anthropic
+4. pip install pandas matplotlib ipykernel 
 5.pip install ruff
     ruff version
     ruff check   # Lint all files in the current directory.
     ruff format  # Format all files in the current directory.
-6. pip install quarto
+    
+6. pip install jupyter matplotlib plotly
+pip install quarto
 7. jupyter labextension install quarto
-       - Create a file , for powershell : $null > "example.md"
-       - BASH : touch example.md
+       - Create a file , for powershell : $null > "example.qmd"
+       - BASH : touch example.qmd
        - paste the following in your markdown file :
        ---
         title: "My Quarto Document"
