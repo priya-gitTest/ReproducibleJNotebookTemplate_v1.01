@@ -14,7 +14,7 @@ uv pip sync requirements.txt
 ```      
 4. Install some typical python libraries that are needed.
  ```bash
-   pip install pandas ipykernel jupyter
+ pip install pandas ipykernel jupyter
 ```
 5. Install Ruff
 ```bash
@@ -25,15 +25,15 @@ ruff format  # Format all files in the current directory.
 ```
 6. Install Quarto
 ```bash
-   pip install quarto
+pip install quarto
 ```
 8.  Render a Quarto Document     
 ```bash
-   quarto render hello.qmd
+quarto render hello.qmd
 ```
 9. Create a Manuscript Project
 ```bash
-    quarto create project manuscript 1_pdf
+quarto create project manuscript 1_pdf
 ```
 9. Generate Requirements.txt : pip freeze > requirements.txt
 
