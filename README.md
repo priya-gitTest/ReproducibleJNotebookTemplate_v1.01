@@ -30,3 +30,4 @@ All know links are mentioned below :
 6. https://github.com/astral-sh/uv?tab=readme-ov-file#script-support
 7. https://github.com/UtrechtUniversity/generative-ai/tree/main?tab=readme-ov-file, https://github.com/UtrechtUniversity/generative-ai/blob/main/kickstarter/notebooks/claude_opus.ipynb
 8. https://github.com/github/codespaces-jupyter/tree/main
+9. https://nfdi-neuro.de/wp-content/uploads/2021/08/Colomb_GinTonic.pdf
