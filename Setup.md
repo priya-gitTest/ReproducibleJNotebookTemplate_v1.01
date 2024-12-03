@@ -1,12 +1,15 @@
 ### Setup.md
 
-1. pip install uv
+1.Install UV
+#!/bin/bash
+pip install uv
+2. pip install uv
     Create a virtual environment:
         uv venv
     Install the locked requirements
         uv pip sync requirements.txt
 
-2. pip install pandas ipykernel jupyter
+3. pip install pandas ipykernel jupyter
 3.pip install ruff
     ruff version
     ruff check   # Lint all files in the current directory.
