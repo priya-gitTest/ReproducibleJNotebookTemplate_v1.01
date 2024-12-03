@@ -14,7 +14,7 @@ uv pip sync requirements.txt
 ```      
 4. Install some typical python libraries that are needed.
  ```bash
- pip install pandas ipykernel jupyter
+ pip install pandas ipykernel jupyter matplotlib plotly
 ```
 5. Install Ruff
 ```bash
