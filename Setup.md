@@ -1,8 +1,8 @@
 ### Setup.md
 
 1.Install UV
-#!/bin/bash
-pip install uv
+'''#!/bin/bash
+pip install uv '''
 2. pip install uv
     Create a virtual environment:
         uv venv
