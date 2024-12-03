@@ -1,6 +1,6 @@
 ### Setup.md
 
-1.Install UV
+1. Install UV
 ```bash
 pip install uv
 ```
@@ -8,7 +8,7 @@ pip install uv
 ```bash
 uv venv
 ```
-3. [Optional]Install the locked requirements
+3. [Optional] Install the locked requirements
  ```bash
 uv pip sync requirements.txt
 ```      
