@@ -40,6 +40,7 @@ At the terminal type:
 7. Install Quarto
 ```bash
 pip install quarto
+quarto check # Use quarto check to confirm that the installation is successful
 ```
 8.  Render a Quarto Document     
 ```bash
