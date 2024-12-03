@@ -12,7 +12,7 @@ It makes use of following pytho
 5. Empty files for LICENCE, CITATION and codemeta.json, to be filled in by the user as part of the exercise.
 
 ## Getting Started
-Please refer to [Setup.md]() for more details
+Please refer to [Setup.md](Setup.md) for more details
 
 References :
 I wish to thank the PyOpenSci FF Festival 2024 for providing me lots of useful tips to create this course.
