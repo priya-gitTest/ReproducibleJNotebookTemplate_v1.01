@@ -12,7 +12,7 @@ It makes use of following pytho
 5. Empty files for LICENCE, CITATION and codemeta.json, to be filled in by the user as part of the exercise.
 
 ## Getting Started
-1. Make a copy of this repository by cloning it.
+1. Make a copy of this repository by forking it.
 2. In the cloned repository, run the codespace
    
    ![image](https://github.com/user-attachments/assets/b917d8ee-50cf-4612-93ba-910964b0c5ee)
