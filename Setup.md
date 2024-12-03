@@ -2,7 +2,7 @@
 
 1.Install UV
 ```bash
-pip install uv```
+pip install uv ```
 2. pip install uv
     Create a virtual environment:
         uv venv
