@@ -12,7 +12,11 @@ It makes use of following pytho
 5. Empty files for LICENCE, CITATION and codemeta.json, to be filled in by the user as part of the exercise.
 
 ## Getting Started
-Please refer to [Setup.md](Setup.md) for more details
+1. Make a copy of this repository by cloning it.
+2. In the cloned repository, run the codespace
+   ![image](https://github.com/user-attachments/assets/b917d8ee-50cf-4612-93ba-910964b0c5ee)
+
+3. Please refer to [Setup.md](Setup.md) for more details on follow-up instructions.
 
 References :
 I wish to thank the PyOpenSci FF Festival 2024 for providing me lots of useful tips to create this course.
