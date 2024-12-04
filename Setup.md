@@ -53,4 +53,6 @@ quarto create project manuscript 1_pdf
 9. Generate Requirements.txt : pip freeze > requirements.txt
 
 10. Checkin the code to Github
+11. Make a Release
+12. Try to upload the Release in Zenodo
 
