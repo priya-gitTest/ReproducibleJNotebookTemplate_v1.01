@@ -14,13 +14,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Create Release
+        uses: softprops/action-gh-release@v1 # Action to create the release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tag_name: ${{ github.ref }}
           release_name: Release ${{ github.ref }}
           body: |
-            This is a test release. # Fixed extra spaces
+            This is a test release.
       - name: Upload Artifact
         uses: actions/upload-artifact@v3
         with:
