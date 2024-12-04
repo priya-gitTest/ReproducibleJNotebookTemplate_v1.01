@@ -12,16 +12,15 @@ jobs:
       pull-requests: write
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Create Release
-        uses: actions/create-release@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tag_name: ${{ github.ref }}
-          release_name:  Release ${{ github.ref }}
+          release_name: Release ${{ github.ref }}
           body: |
-            This is a   test release.
+            This is a test release. # Fixed extra spaces
       - name: Upload Artifact
         uses: actions/upload-artifact@v3
         with:
