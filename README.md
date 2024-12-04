@@ -1,4 +1,4 @@
-### Reproducible  Python Notebook Template
+### Reproducible  Python Notebook Template..
 
 This project is a template for create reproducible notebooks and publications. It also makes use of modern tools and possible best practices known at this time.
 It makes use of following pytho
