@@ -3,7 +3,7 @@ name: Create Release
 on:
   push:
     tags:
-      - 'v*'
+      - 'v*' # Only trigger on tags starting with 'v'
 
 jobs:
   release:
@@ -20,7 +20,6 @@ jobs:
         with:
           tag_name: ${{ github.ref }}
           release_name:  Release ${{ github.ref }}
-          force_create: true  # Force create even if tag exists
           body: |
             This is a   test release.
       - name: Upload Artifact
