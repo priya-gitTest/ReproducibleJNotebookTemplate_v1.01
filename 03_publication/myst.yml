@@ -1,0 +1,36 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: morganton-2025-template
+  title: "xxx"
+  subtitle: yyy
+  short_title: zzz
+  description: A in an attached Jupyter Notebook.
+  github: https://github.com/rowanc1/article-template
+  keywords:
+    - template
+    - myst
+  authors:
+    - name: ppp
+      orcid: 0000-0002-0000-0000
+      email: 0000@0000.com
+      affiliation: 0000 Inc.
+    - name: hhh
+      affiliation: University
+  license: CC-BY-4.0
+  open_access: true
+  subject: Original Research
+  venue: 
+  banner: banner.png
+  abbreviations:
+    CRISPR: Clustered regularly interspaced short palindromic repeats
+    DOI: Digital object identifier
+  exports:
+    - template: lapreprint-typst
+      article: article.md
+  downloads: []
+  toc:
+    - file: article.md
+    - file: analysis.ipynb
+site:
+  template: article-theme
