@@ -27,8 +27,10 @@ ruff format  # Format all files in the current directory.
 * Install Myst(https://mystmd.org/guide/installing)
 
 At the terminal type:  
-```pip install mystmd
+```
+pip install mystmd
 myst --version
+myst start
 ``` 
 
 ### Install some VSCode extensions
