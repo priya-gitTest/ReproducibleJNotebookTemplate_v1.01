@@ -24,7 +24,7 @@ ruff check   # Lint all files in the current directory.
 ruff format  # Format all files in the current directory.
 ```
 6. ### Install MyST
-* Install Myst(https://mystmd.org/guide/installing)
+* Install Myst(https://mystmd.org/guide/installing), https://mystmd.org/guide/quickstart-myst-documents
 
 At the terminal type:  
 ```
