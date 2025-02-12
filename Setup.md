@@ -1,17 +1,17 @@
 ### Setup.md
 
-0. Environment Update
+1. Environment Update
 ```bash
 sudo apt update #Update Package Lists
 sudo apt install -y latexmk texlive texlive-latex-extra texlive-xetex #Install latexmk and TeX Live for Myst
 latexmk --version
 ```
 
-1. Install UV
+2. Install UV
 ```bash
 pip install uv
 ```
-2. Create a virtual environment and then activate it.
+3. Create a virtual environment and then activate it.
 ```bash
 uv venv
 #Activate the venv
@@ -33,7 +33,10 @@ ruff check   # Lint all files in the current directory.
 ruff format  # Format all files in the current directory.
 # ruff check --fix
 ```
-6. ### Install MyST
+6. ### Run your Jupyter Notebook
+    - Run the cells and play around with the prompts.
+
+7. ### Install MyST
 * Install Myst(https://mystmd.org/guide/installing), https://mystmd.org/guide/quickstart-myst-documents
 
 At the terminal type:  
@@ -43,15 +46,15 @@ myst --version
 myst init
 myst start
 # ctrl + Z to stop the myst 
-# to generate the pdf report : myst build 03_publication/01-article.md --pdf
+# to generate the pdf report : myst build 03_publication/01-article.md --pdf --output 03_publication/01-article.pdf
 ``` 
 
-7. Generate Requirements.txt 
+8. Generate Requirements.txt 
 ```bash
 pip freeze > requirements.txt
 ```
 
-8. Checkin the code to Github
-9. Make a Release
-10. Try to upload the Release in Zenodo
+9. Checkin the code to Github
+10. Make a Release
+11. Try to upload the Release in Zenodo
 
