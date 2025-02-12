@@ -1,5 +1,12 @@
 ### Setup.md
 
+0. Environment Update
+```bash
+sudo apt update #Update Package Lists
+sudo apt install -y latexmk texlive texlive-latex-extra texlive-xetex #Install latexmk and TeX Live for Myst
+latexmk --version
+```
+
 1. Install UV
 ```bash
 pip install uv
