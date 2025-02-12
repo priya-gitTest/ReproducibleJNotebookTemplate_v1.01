@@ -35,7 +35,7 @@ ruff format  # Format all files in the current directory.
 ```
 6. ### Run your Jupyter Notebook
     - Install the following extensions  : Jupyter [Microsoft microsoft.com]
-    - Install the following extensions  : Python [Microsoft microsoft.com
+    - Install the following extensions  : Python [Microsoft microsoft.com]
     - Run the cells and play around with the prompts.
 
 7. ### Install MyST
@@ -48,7 +48,7 @@ myst --version
 myst init
 myst start
 # ctrl + Z to stop the myst 
-# Install a PDF viewer : PDF Viewer Mathematic Inc
+# Install a PDF viewer : PDF Viewer [Mathematic Inc]
 # to generate the pdf report : myst build 03_publication/01-article.md --pdf --output 03_publication/01-article.pdf
 ``` 
 
