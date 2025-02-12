@@ -14,7 +14,7 @@ uv pip sync requirements.txt
 ```      
 4. Install some typical python libraries that are needed.
  ```bash
- pip install pandas ipykernel jupyter matplotlib plotly
+ pip install pandas ipykernel jupyter matplotlib plotly jupyterlab-magic-wand
 ```
 5. Install Ruff
 ```bash
@@ -22,6 +22,7 @@ pip install ruff
 ruff version
 ruff check   # Lint all files in the current directory.
 ruff format  # Format all files in the current directory.
+# ruff check --fix
 ```
 6. ### Install MyST
 * Install Myst(https://mystmd.org/guide/installing), https://mystmd.org/guide/quickstart-myst-documents
