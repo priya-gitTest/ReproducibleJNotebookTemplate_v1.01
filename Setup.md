@@ -4,9 +4,11 @@
 ```bash
 pip install uv
 ```
-2. Create a virtual environment
+2. Create a virtual environment and then activate it.
 ```bash
 uv venv
+#Activate the venv
+source .venv/bin/activate
 ```
 3. [Optional] Install the locked requirements
  ```bash
@@ -14,7 +16,7 @@ uv pip sync requirements.txt
 ```      
 4. Install some typical python libraries that are needed.
  ```bash
- pip install pandas ipykernel jupyter matplotlib plotly jupyterlab-magic-wand
+ pip install pandas ipykernel jupyter matplotlib plotly 
 ```
 5. Install Ruff
 ```bash
@@ -28,13 +30,19 @@ ruff format  # Format all files in the current directory.
 * Install Myst(https://mystmd.org/guide/installing), https://mystmd.org/guide/quickstart-myst-documents
 
 At the terminal type:  
-```
+```bash
 pip install mystmd
 myst --version
+myst init
 myst start
+# ctrl + Z to stop the myst 
+# to generate the pdf report : myst build 03_publication/01-article.md --pdf
 ``` 
 
-7. Generate Requirements.txt : pip freeze > requirements.txt
+7. Generate Requirements.txt 
+```bash
+pip freeze > requirements.txt
+```
 
 8. Checkin the code to Github
 9. Make a Release

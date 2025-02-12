@@ -8,8 +8,5 @@ project:
   # authors: []
   github: https://github.com/priya-gitTest/ReproducibleJNotebookTemplate
   # To autogenerate a Table of Contents, run "myst init --write-toc"
-toc:
-    - file: 01-article.md
-    - file: 01_Sample.ipynb
 site:
   template: article-theme
