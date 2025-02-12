@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: fd5a3138-56ba-40b0-8f55-ccdc7704ee98
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/priya-gitTest/ReproducibleJNotebookTemplate
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+toc:
+    - file: 01-article.md
+    - file: 01_Sample.ipynb
+site:
+  template: article-theme

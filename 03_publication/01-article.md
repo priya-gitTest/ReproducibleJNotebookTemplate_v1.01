@@ -32,7 +32,7 @@ Morphological examination of the fruit flies revealed distinct phenotypic variat
 :label: tab:phenotypic-variation
 
 Morphological examination of the fruit flies revealed distinct phenotypic variations across the three sampled populations.
-The source for this data can be found in [](./fruit_fly_data.csv).
+The source for this data can be found in [](.01/data/1_fruit_fly_data.csv).
 
 | Environment          | Red-Eyed Flies (%) | Larger Wings (%) |
 | -------------------- | ------------------ | ---------------- |

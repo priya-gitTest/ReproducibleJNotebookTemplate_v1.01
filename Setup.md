@@ -33,26 +33,9 @@ myst --version
 myst start
 ``` 
 
-### Install some VSCode extensions
-* Search for the Quarto extension and install that extension
-* Search for the Preview extension and install that extension
-  
-7. Install Quarto
-```bash
-pip install quarto
-quarto check # Use quarto check to confirm that the installation is successful
-```
-8.  Render a Quarto Document     
-```bash
-quarto render hello.qmd
-```
-9. Create a Manuscript Project
-```bash
-quarto create project manuscript 1_pdf
-```
-9. Generate Requirements.txt : pip freeze > requirements.txt
+7. Generate Requirements.txt : pip freeze > requirements.txt
 
-10. Checkin the code to Github
-11. Make a Release
-12. Try to upload the Release in Zenodo
+8. Checkin the code to Github
+9. Make a Release
+10. Try to upload the Release in Zenodo
 
