@@ -23,14 +23,15 @@ It makes use of following python libraries
 1. https://github.com/github/codespaces-jupyter/tree/main
 2. https://nfdi-neuro.de/wp-content/uploads/2021/08/Colomb_GinTonic.pdf
 3. https://github.com/pyOpenSci/pyos-package-template/tree/main Citation : https://zenodo.org/records/14052274
-4. https://github.com/astral-sh/uv?tab=readme-ov-file#script-support
-5. https://docs.astral.sh/ruff/linter/#fixes
-6. https://docs.astral.sh/ruff/installation/
-7. https://github.com/UtrechtUniversity/generative-ai/tree/main?tab=readme-ov-file, https://github.com/UtrechtUniversity/generative-ai/blob/main/kickstarter/notebooks/claude_opus.ipynb
-8. https://myst-parser.readthedocs.io/en/latest/ Citation : https://zenodo.org/records/14805658
-9. https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giad113/7516267
-10. https://blog.reviewnb.com/jupyter-notebook-reproducibility-managing-dependencies-data-secrets/
-11. https://arxiv.org/pdf/1810.08055
+4. https://curvenote.com/blog/myst-markdown-pyopensci-2024
+5. https://github.com/astral-sh/uv?tab=readme-ov-file#script-support
+6. https://docs.astral.sh/ruff/linter/#fixes
+7. https://docs.astral.sh/ruff/installation/
+8. https://github.com/UtrechtUniversity/generative-ai/tree/main?tab=readme-ov-file, https://github.com/UtrechtUniversity/generative-ai/blob/main/kickstarter/notebooks/claude_opus.ipynb
+9. https://myst-parser.readthedocs.io/en/latest/ Citation : https://zenodo.org/records/14805658
+10. https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giad113/7516267
+11. https://blog.reviewnb.com/jupyter-notebook-reproducibility-managing-dependencies-data-secrets/
+12. https://arxiv.org/pdf/1810.08055
 
 ## Further Explore :
 1. Similar project with a Python package : https://github.com/manzt/juv
