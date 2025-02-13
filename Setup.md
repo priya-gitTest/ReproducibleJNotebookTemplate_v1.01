@@ -62,6 +62,7 @@ pip freeze > requirements.txt
 10. Make a Release
     - Open the Releases Page
     - Click on "Draft a new release"
+    - Choose the appropriate target branch
     - Choose a Tag Version else GitHub will create it.
     - Add a Release Title & Description
     - Click "Publish Release"
