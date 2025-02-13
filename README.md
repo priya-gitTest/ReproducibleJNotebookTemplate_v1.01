@@ -20,8 +20,6 @@ It makes use of following python libraries
 4. Please refer to [Setup.md](Setup.md) for more details on follow-up instructions.
 
 ## References and Further Reading:
-I wish to thank the PyOpenSci FF Festival 2024 for providing me lots of useful tips to create this course.
-All know links are mentioned below : 
 1. https://github.com/github/codespaces-jupyter/tree/main
 2. https://nfdi-neuro.de/wp-content/uploads/2021/08/Colomb_GinTonic.pdf
 3. https://github.com/pyOpenSci/pyos-package-template/tree/main
@@ -40,6 +38,8 @@ All know links are mentioned below :
 3. JupyterLab Magic Wand to in cell AI assistence : https://github.com/Zsailer/jupyterlab-magic-wand
 4. Reproducible Notebooks with Pixi : https://prefix.dev/blog/pixi_jupyter_notebooks
 
+## Acknowledgement
+I thank the PyOpenSci FF Festival 2024 (Leah W and Team) and MyST(Rowan and Team) for providing me lots of useful tips and inspiration to create this.
    
 
 
