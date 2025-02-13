@@ -67,4 +67,5 @@ pip freeze > requirements.txt
     - Add a Release Title & Description
     - Click "Publish Release"
 11. Try to upload the Release in Zenodo
+     - Follow the steps mentioned here : https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content
 
