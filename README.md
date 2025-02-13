@@ -19,7 +19,7 @@ It makes use of following python libraries
 
 4. Please refer to [Setup.md](Setup.md) for more details on follow-up instructions.
 
-References and Further Reading:
+## References and Further Reading:
 I wish to thank the PyOpenSci FF Festival 2024 for providing me lots of useful tips to create this course.
 All know links are mentioned below : 
 1. https://github.com/github/codespaces-jupyter/tree/main
@@ -34,7 +34,7 @@ All know links are mentioned below :
 10. https://blog.reviewnb.com/jupyter-notebook-reproducibility-managing-dependencies-data-secrets/
 11. https://arxiv.org/pdf/1810.08055
 
-Further Explore :
+## Further Explore :
 1. Similar project with a Python package : https://github.com/manzt/juv
 2. A Jupyter AI Package to interact with multiple AI Api's : https://github.com/jupyterlab/jupyter-ai
 3. JupyterLab Magic Wand to in cell AI assistence : https://github.com/Zsailer/jupyterlab-magic-wand
