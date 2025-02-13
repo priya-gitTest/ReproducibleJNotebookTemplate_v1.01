@@ -22,12 +22,12 @@ It makes use of following python libraries
 ## References and Further Reading:
 1. https://github.com/github/codespaces-jupyter/tree/main
 2. https://nfdi-neuro.de/wp-content/uploads/2021/08/Colomb_GinTonic.pdf
-3. https://github.com/pyOpenSci/pyos-package-template/tree/main
+3. https://github.com/pyOpenSci/pyos-package-template/tree/main Citation : https://zenodo.org/records/14052274
 4. https://github.com/astral-sh/uv?tab=readme-ov-file#script-support
 5. https://docs.astral.sh/ruff/linter/#fixes
 6. https://docs.astral.sh/ruff/installation/
 7. https://github.com/UtrechtUniversity/generative-ai/tree/main?tab=readme-ov-file, https://github.com/UtrechtUniversity/generative-ai/blob/main/kickstarter/notebooks/claude_opus.ipynb
-8. https://myst-parser.readthedocs.io/en/latest/ Citations : https://zenodo.org/records/14805658
+8. https://myst-parser.readthedocs.io/en/latest/ Citation : https://zenodo.org/records/14805658
 9. https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giad113/7516267
 10. https://blog.reviewnb.com/jupyter-notebook-reproducibility-managing-dependencies-data-secrets/
 11. https://arxiv.org/pdf/1810.08055
