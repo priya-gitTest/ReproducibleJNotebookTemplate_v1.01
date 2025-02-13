@@ -29,7 +29,7 @@ All know links are mentioned below :
 5. https://docs.astral.sh/ruff/linter/#fixes
 6. https://docs.astral.sh/ruff/installation/
 7. https://github.com/UtrechtUniversity/generative-ai/tree/main?tab=readme-ov-file, https://github.com/UtrechtUniversity/generative-ai/blob/main/kickstarter/notebooks/claude_opus.ipynb
-8. https://myst-parser.readthedocs.io/en/latest/
+8. https://myst-parser.readthedocs.io/en/latest/ Citations : https://zenodo.org/records/14805658
 
 Further Explore :
 1. Similar project with a Python package : https://github.com/manzt/juv
@@ -38,5 +38,4 @@ Further Explore :
 
    
 
-Citations : 
-https://zenodo.org/records/14805658
+
