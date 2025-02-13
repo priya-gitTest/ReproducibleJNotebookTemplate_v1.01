@@ -22,13 +22,21 @@ It makes use of following python libraries
 References :
 I wish to thank the PyOpenSci FF Festival 2024 for providing me lots of useful tips to create this course.
 All know links are mentioned below : 
-1. https://github.com/pyOpenSci/pyos-package-template/tree/main
-2. https://docs.astral.sh/ruff/linter/#fixes
-3. https://docs.astral.sh/ruff/installation/
+1. https://github.com/github/codespaces-jupyter/tree/main
+2. https://nfdi-neuro.de/wp-content/uploads/2021/08/Colomb_GinTonic.pdf
+3. https://github.com/pyOpenSci/pyos-package-template/tree/main
 4. https://github.com/astral-sh/uv?tab=readme-ov-file#script-support
-5. https://github.com/UtrechtUniversity/generative-ai/tree/main?tab=readme-ov-file, https://github.com/UtrechtUniversity/generative-ai/blob/main/kickstarter/notebooks/claude_opus.ipynb
-6. https://github.com/github/codespaces-jupyter/tree/main
-7. https://nfdi-neuro.de/wp-content/uploads/2021/08/Colomb_GinTonic.pdf
+5. https://docs.astral.sh/ruff/linter/#fixes
+6. https://docs.astral.sh/ruff/installation/
+7. https://github.com/UtrechtUniversity/generative-ai/tree/main?tab=readme-ov-file, https://github.com/UtrechtUniversity/generative-ai/blob/main/kickstarter/notebooks/claude_opus.ipynb
+8. https://myst-parser.readthedocs.io/en/latest/
+
+Further Explore :
+1. Similar project with a Python package : https://github.com/manzt/juv
+2. A Jupyter AI Package to interact with multiple AI Api's : https://github.com/jupyterlab/jupyter-ai
+3. JupyterLab Magic Wand to in cell AI assistence : https://github.com/Zsailer/jupyterlab-magic-wand
+
+   
 
 Citations : 
 https://zenodo.org/records/14805658
