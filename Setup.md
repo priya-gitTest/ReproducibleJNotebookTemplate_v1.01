@@ -60,5 +60,10 @@ pip freeze > requirements.txt
 
 9. Checkin the code to Github
 10. Make a Release
+    - Open the Releases Page
+    - Click on "Draft a new release"
+    - Choose a Tag Version else GitHub will create it.
+    - Add a Release Title & Description
+    - Click "Publish Release"
 11. Try to upload the Release in Zenodo
 
