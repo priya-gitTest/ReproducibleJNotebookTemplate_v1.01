@@ -44,7 +44,7 @@ It makes use of following python libraries
 4. Reproducible Notebooks with Pixi : https://prefix.dev/blog/pixi_jupyter_notebooks
 
 ## Acknowledgement
-I thank the PyOpenSci FF Festival 2024 (Leah W and Team) and MyST(Rowan and Team) for providing me lots of useful tips and inspiration to create this.
+I thank the PyOpenSci FF Festival 2024 (Leah W and Team) and MyST(Rowan and Team) and  Modhurita (UU) for providing me lots of useful tips and inspiration to create this.
    
-
+Thanks Joyce & Heidi [DRA](https://digital-research.academy/)
 
