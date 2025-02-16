@@ -1,4 +1,8 @@
-### Reproducible  Python Notebook Template
+![image](https://github.com/user-attachments/assets/a8a3bbc9-b90b-40bd-994a-4908ad32dcdb)
+
+
+
+### Reproducible Jupyter Notebook Template
 
 This project is a template to create reproducible notebooks and publications. It also makes use of modern tools and possible best practices known at this time.
 It makes use of following python libraries
