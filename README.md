@@ -46,5 +46,5 @@ It makes use of following python libraries
 ## Acknowledgement
 I thank the PyOpenSci FF Festival 2024 (Leah W and Team) and MyST(Rowan and Team) and  Modhurita (UU) for providing me lots of useful tips and inspiration to create this.
    
-Thanks Joyce & Heidi & Team from [DRA](https://digital-research.academy/)
+Thanks Joyce, Heidi & DRA Team  [DRA](https://digital-research.academy/)
 
