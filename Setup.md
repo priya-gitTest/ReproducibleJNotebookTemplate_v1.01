@@ -13,6 +13,7 @@ pip install uv
 ```
 3. Create a virtual environment and then activate it.
 ```bash
+uv init
 uv venv
 #Activate the venv
 source .venv/bin/activate
@@ -23,7 +24,8 @@ uv pip sync requirements.txt
 ```      
 4. Install some typical python libraries that are needed.
  ```bash
- pip install pandas ipykernel jupyter matplotlib plotly 
+ #pip install pandas ipykernel jupyter matplotlib plotly 
+ uv add pandas ipykernel jupyter matplotlib seaborn
 ```
 5. Install Ruff
 ```bash

@@ -12,7 +12,7 @@ It makes use of following python libraries
  It's designed to be highly efficient and customizable.)
 3. Groq AI : A sample notebook demonstrating the usage of Groq AI. a prior account is needed before running this notebook to provide the API key.
 4. Myst Markdown for publication.
-5. Empty files for LICENCE, CITATION and codemeta.json, to be filled in by the user as part of the exercise.
+5. Empty files for CITATION and codemeta.json, to be filled in by the user as part of the exercise.
 
 ## Getting Started
 1. Create a groq account and keep the API keys handy for the exercies. Refer to for more details : https://console.groq.com/keys
