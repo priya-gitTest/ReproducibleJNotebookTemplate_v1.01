@@ -27,7 +27,8 @@ uv pip sync requirements.txt
 ```
 5. Install Ruff
 ```bash
-pip install ruff
+#pip install ruff
+uv tool install ruff
 ruff version
 ruff check   # Lint all files in the current directory.
 ruff format  # Format all files in the current directory.
