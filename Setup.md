@@ -14,6 +14,7 @@ pip install uv
 3. Create a virtual environment and then activate it.
 ```bash
 uv init # Creates a new or initialize the current directory and generates following files :  pyproject.toml, README.md, .python-version, main.py
+#Another example : uv venv --python=3.12 .venv
 uv venv # creates a new virtual environment for isolating Python packages and dependencies.
 #Activate the venv
 source .venv/bin/activate
