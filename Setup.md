@@ -4,7 +4,7 @@
 ```bash
 sudo apt update #Update Package Lists
 sudo apt install -y latexmk texlive texlive-latex-extra texlive-xetex #Install latexmk and TeX Live for Myst
-latexmk --version
+latexmk --version # Latexmk, John Collins, 26 Dec. 2019. Version 4.67
 ```
 
 2. Install UV
@@ -13,19 +13,22 @@ pip install uv
 ```
 3. Create a virtual environment and then activate it.
 ```bash
-uv init
-uv venv
+uv init # Creates a new or initialize the current directory and generates following files :  pyproject.toml, README.md, .python-version, main.py
+uv venv # creates a new virtual environment for isolating Python packages and dependencies.
 #Activate the venv
 source .venv/bin/activate
 ```
 3. [Optional] Install the locked requirements
  ```bash
-uv pip sync requirements.txt
+#uv pip sync requirements.txt
+#uv sync # run this to install what is present in your lock file exactly 
+#uv lock # generated automaticall the first time you run uv add, uv remove or uv sync
+#uv.lock file : The lockfile ensures reproducible builds by recording the exact versions of all dependencies that were resolved. 
 ```      
 4. Install some typical python libraries that are needed.
  ```bash
  #pip install pandas ipykernel jupyter matplotlib plotly 
- uv add pandas ipykernel jupyter matplotlib seaborn
+ uv add pandas ipykernel jupyter matplotlib seaborn groq
 ```
 5. Install Ruff
 ```bash
@@ -47,7 +50,8 @@ ruff format  # Format all files in the current directory.
 
 At the terminal type:  
 ```bash
-pip install mystmd
+#pip install mystmd
+uv tool install mystmd
 myst --version
 myst init
 myst start
@@ -56,9 +60,11 @@ myst start
 # to generate the pdf report : myst build 03_publication/01-article.md --pdf --output 03_publication/01-article.pdf
 ``` 
 
-8. Generate Requirements.txt 
+8. Generate uv.lock file or alternatively Requirements.txt 
 ```bash
-pip freeze > requirements.txt
+#pip freeze > requirements.txt
+# uv pip freeze > requirements.txt
+uv lock
 ```
 
 9. Checkin the code to Github
