@@ -35,7 +35,7 @@ It makes use of following python libraries :
 9. https://myst-parser.readthedocs.io/en/latest/ Citation : https://zenodo.org/records/14805658
 10. https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giad113/7516267
 11. https://blog.reviewnb.com/jupyter-notebook-reproducibility-managing-dependencies-data-secrets/
-12. https://arxiv.org/pdf/1810.08055
+12. [Ten Simple Rules for Reproducible Research in Jupyter Notebooks](https://arxiv.org/pdf/1810.08055)
 
 ## Further Explore :
 1. Similar project with a Python package : https://github.com/manzt/juv
