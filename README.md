@@ -25,7 +25,7 @@ It makes use of following python libraries :
 
 ## References and Further Reading:
 1. https://github.com/github/codespaces-jupyter/tree/main
-2. https://nfdi-neuro.de/wp-content/uploads/2021/08/Colomb_GinTonic.pdf
+2. [Research folder structure standard](https://gin-tonic.netlify.app/standard/)
 3. https://github.com/pyOpenSci/pyos-package-template/tree/main Citation : https://zenodo.org/records/14052274
 4. https://curvenote.com/blog/myst-markdown-pyopensci-2024
 5. https://github.com/astral-sh/uv?tab=readme-ov-file#script-support
