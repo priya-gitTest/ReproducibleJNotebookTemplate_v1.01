@@ -11,7 +11,7 @@ It makes use of following python libraries :
 2. **Ruff** : Python Linter (Ruff is a powerful linter that identifies and corrects common Python code style and quality issues.
  It's designed to be highly efficient and customizable.)
 3. **Groq AI API** : A sample notebook demonstrating the usage of Groq AI. a prior account is needed before running this notebook to provide the API key.
-4. ** Myst Markdown** for publication.
+4. **Myst Markdown** for publication.
 5. Empty files for CITATION and codemeta.json, to be filled in by the user as part of the exercise.
 
 ## Getting Started
