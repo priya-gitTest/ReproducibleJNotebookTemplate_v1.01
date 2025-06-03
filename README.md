@@ -3,8 +3,9 @@
 
 ### Reproducible Jupyter Notebook Template
 
-This project is a template to create reproducible notebooks and publications. It also makes use of modern tools and possible best practices known at this time.
-It makes use of following python libraries
+This project is a template to create reproducible notebooks and publications for your research projects mostly related to data analysis or ML. 
+It makes use of modern tools and possible best practices known at this time.
+It makes use of following python libraries :
 1. **UV** : Package Manager (UV is a lightning-fast package manager written in Rust. 
  It offers significant performance improvements over traditional tools like pip and pipenv)
 2. **Ruff** : Python Linter (Ruff is a powerful linter that identifies and corrects common Python code style and quality issues.
