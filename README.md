@@ -43,6 +43,9 @@ It makes use of following python libraries :
 3. JupyterLab Magic Wand to in cell AI assistence : https://github.com/Zsailer/jupyterlab-magic-wand
 4. Reproducible Notebooks with Pixi : https://prefix.dev/blog/pixi_jupyter_notebooks
 
+## Glossary : 
+1. API (Aplication Programming Interface) : APIs are mechanisms that enable two software components to communicate with each other using a set of definitions and protocols ref : https://aws.amazon.com/what-is/api/
+
 ## Acknowledgement
 I thank the PyOpenSci FF Festival 2024 (Leah W and Team) and MyST(Rowan and Team) and  Modhurita (UU) for providing me lots of useful tips and inspiration to create this.
    
