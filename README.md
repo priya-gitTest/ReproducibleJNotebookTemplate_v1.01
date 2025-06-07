@@ -5,7 +5,9 @@
 
 **What** : This project is a template to create reproducible notebooks and publications for your research projects mostly related to data analysis or ML. 
 It makes use of modern tools and possible best practices known at this time. It makes use of GitHub codespaces for replication and reproducibility.
+
 **Why** : You can use this setup for builing your proof of Concept very fast and efficiently.
+
 **Pre-requiste** : Knowledge of GIT and Basic Python programming is essential to take this course. 
 
 It makes use of following python libraries :
