@@ -9,7 +9,7 @@
  - Acessible from wherever GitHib Website with Internet is accessible to you.
  - Hassle free way to develop your simple codes .
 
-**Why** : You can use this setup for builing your proof of Concept very fast and efficiently.
+**Why** : You can use this setup for builing your proof of concept very fast and efficiently.
 
 **Pre-requiste** : Knowledge of GIT and Basic Python programming is essential to take this course. 
 
