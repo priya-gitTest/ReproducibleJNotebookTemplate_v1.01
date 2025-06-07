@@ -3,9 +3,11 @@
 
 ### Reproducible Jupyter Notebook Template
 
-This project is a template to create reproducible notebooks and publications for your research projects mostly related to data analysis or ML. 
-It makes use of modern tools and possible best practices known at this time. 
-Knowledge of GIT and Basic Python programming is essential to take this course.
+**What** : This project is a template to create reproducible notebooks and publications for your research projects mostly related to data analysis or ML. 
+It makes use of modern tools and possible best practices known at this time. It makes use of GitHub codespaces for replication and reproducibility.
+**Why** : You can use this setup for builing your proof of Concept very fast and efficiently.
+**Pre-requiste** : Knowledge of GIT and Basic Python programming is essential to take this course. 
+
 It makes use of following python libraries :
 1. **UV** : Package Manager (UV is a lightning-fast package manager written in Rust. 
  It offers significant performance improvements over traditional tools like pip and pipenv)
@@ -46,6 +48,9 @@ It makes use of following python libraries :
 
 ## Glossary : 
 1. API (Aplication Programming Interface) : APIs are mechanisms that enable two software components to communicate with each other using a set of definitions and protocols ref : https://aws.amazon.com/what-is/api/
+2. ML : Machine Learning
+3. GIT : Global Information Tracker
+4. AI : Artifical Intelligence
 
 ## Acknowledgement
 I thank the PyOpenSci FF Festival 2024 (Leah W and Team) and MyST(Rowan and Team) and  Modhurita (UU) for providing me lots of useful tips and inspiration to create this.
