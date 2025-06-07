@@ -3,8 +3,11 @@
 
 ### Reproducible Jupyter Notebook Template
 
-**What** : This project is a template to create reproducible notebooks and publications for your research projects mostly related to data analysis or ML. 
-It makes use of modern tools and possible best practices known at this time. It makes use of GitHub codespaces for replication and reproducibility.
+**What** : 
+ - This project is a template to create reproducible notebooks and publications for your research projects mostly related to data analysis or ML.
+ - It makes use of modern tools and possible best practices known at this time. E.g. GitHub codespaces for replication and reproducibility.
+ - Acessible from wherever GitHib Website with Internet is accessible to you.
+ - Helps in Browser based software development with VS Code
 
 **Why** : You can use this setup for builing your proof of Concept very fast and efficiently.
 
