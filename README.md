@@ -52,6 +52,7 @@ It makes use of following python libraries :
 2. A Jupyter AI Package to interact with multiple AI Api's : https://github.com/jupyterlab/jupyter-ai
 3. JupyterLab Magic Wand to in cell AI assistence : https://github.com/Zsailer/jupyterlab-magic-wand
 4. Reproducible Notebooks with Pixi : https://prefix.dev/blog/pixi_jupyter_notebooks
+5. [Teaching Python with GitHub Codespaces](https://techcommunity.microsoft.com/blog/educatordeveloperblog/teaching-python-with-github-codespaces/4419687)
 
 ## Glossary : 
 1. API (Aplication Programming Interface) : APIs are mechanisms that enable two software components to communicate with each other using a set of definitions and protocols ref : https://aws.amazon.com/what-is/api/
