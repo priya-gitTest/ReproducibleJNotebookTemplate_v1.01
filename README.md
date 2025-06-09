@@ -8,6 +8,9 @@
  - It makes use of modern tools and possible best practices known at this time. E.g. GitHub codespaces for replication and reproducibility. GitHub Codespaces is a cloud based development enviroment with builin VS Code Support.
  - Acessible from wherever GitHib Website with Internet is accessible to you.
  - Hassle free way to develop your simple codes .
+ - Learn to make a dynamic publication using MysT
+ - Learn to make a release
+ - Learn to archive your software/code on Zenodo / Software Heritage.
 
 **Why** : You can use this setup for builing your proof of concept very fast and efficiently.
 
