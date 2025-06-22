@@ -4,7 +4,7 @@
 ```bash
 sudo apt update #Update Package Lists
 sudo apt install -y latexmk texlive texlive-latex-extra texlive-xetex #Install latexmk and TeX Live for Myst
-latexmk --version # Latexmk, John Collins, 26 Dec. 2019. Version 4.67
+latexmk --version # Latexmk, John Collins, 31 Jan. 2024. Version 4.83
 ```
 
 2. Install UV
