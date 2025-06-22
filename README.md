@@ -8,7 +8,7 @@
  - It makes use of modern tools and possible best practices known at this time. E.g. GitHub codespaces for replication and reproducibility. GitHub Codespaces is a cloud based development enviroment with builin VS Code Support.
  - Acessible from wherever GitHib Website with Internet is accessible to you.
  - Hassle free way to develop your simple codes .
- - Learn to make a dynamic publication using MysT
+ - Learn to make a dynamic publication using MyST
  - Learn to make a release
  - Learn to archive your software/code on Zenodo / Software Heritage.
 
@@ -24,7 +24,7 @@ It makes use of following python libraries :
 2. **Ruff** : Python Linter (Ruff is a powerful linter that identifies and corrects common Python code style and quality issues.
  It's designed to be highly efficient and customizable.)
 3. **Groq AI API** : A sample notebook demonstrating the usage of Groq AI. a prior account is needed before running this notebook to provide the API key.
-4. **Myst Markdown** for publication.
+4. **MyST Markdown** for publication.
 5. Empty files for CITATION and codemeta.json, to be filled in by the user as part of the exercise.
 
 ## Getting Started
@@ -40,7 +40,7 @@ It makes use of following python libraries :
 1. https://github.com/github/codespaces-jupyter/tree/main
 2. [Research folder structure standard](https://gin-tonic.netlify.app/standard/)
 3. https://github.com/pyOpenSci/pyos-package-template/tree/main Citation : https://zenodo.org/records/14052274
-4. https://curvenote.com/blog/myst-markdown-pyopensci-2024
+4. https://curvenote.com/blog/-markdown-pyopensci-2024
 5. https://github.com/astral-sh/uv?tab=readme-ov-file#script-support
 6. https://docs.astral.sh/ruff/linter/#fixes
 7. https://docs.astral.sh/ruff/installation/
