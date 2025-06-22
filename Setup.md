@@ -43,7 +43,7 @@ ruff format  # Format all files in the current directory.
 6. ### Run your Jupyter Notebook
     - Install the following extensions  : Python [Microsoft microsoft.com]
     - Install the following extensions  : Jupyter [Microsoft microsoft.com]   
-    - Choose the Global Python Environment 
+    - Choose the Python Virtual Environment created ealier.
     - Run the cells and play around with the prompts.
 
 7. ### Install MyST
