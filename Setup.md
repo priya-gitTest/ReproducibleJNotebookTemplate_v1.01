@@ -35,7 +35,7 @@ source .venv/bin/activate
 ```bash
 #pip install ruff
 uv tool install ruff
-ruff version
+ruff version # ruff 0.12.0
 ruff check   # Lint all files in the current directory. or specify a file name to check for that file.
 ruff format  # Format all files in the current directory.
 # ruff check --fix
