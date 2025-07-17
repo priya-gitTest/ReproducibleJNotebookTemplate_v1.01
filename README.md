@@ -60,8 +60,7 @@ It makes use of following python libraries :
 ## Glossary : 
 1. API (Aplication Programming Interface) : APIs are mechanisms that enable two software components to communicate with each other using a set of definitions and protocols ref : https://aws.amazon.com/what-is/api/
 2. ML : Machine Learning
-3. GIT : Global Information Tracker
-4. AI : Artifical Intelligence
+3. AI : Artifical Intelligence
 
 ## Acknowledgement
 I thank the PyOpenSci Fall Festival 2024 (Leah W and Team) and MyST(Rowan and Team) and  Modhurita (UU) for providing me lots of useful tips and inspiration to create this.
