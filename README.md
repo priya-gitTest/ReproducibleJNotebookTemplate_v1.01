@@ -12,7 +12,7 @@
  - Learn to make a release
  - Learn to archive your software/code on Zenodo / Software Heritage.
 
-**Why** : You can use this setup for builing your proof of concept very fast and efficiently.
+**Why** : You can use this setup for building your proof of concept very fast and efficiently.
 
 **Pre-requiste** : Knowledge of GIT and Basic Python programming is essential to take this course. 
 
