@@ -10,3 +10,5 @@ project:
   # To autogenerate a Table of Contents, run "myst init --write-toc"
 site:
   template: article-theme
+jupyter:
+  execute_notebooks: force
